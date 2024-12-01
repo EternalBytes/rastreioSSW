@@ -1,0 +1,94 @@
+{
+	"success": true,
+	"message": "Documento localizado com sucesso",
+	"header": {
+		"remetente": "Ry Comercial Ltda",
+		"destinatario": "Associacao Parque Residencial Damha Campo Grande"
+	},
+	"tracking": [
+		{
+			"data_hora": "2024-10-30T17:41:38",
+			"dominio": "BIN",
+			"filial": "SPO",
+			"cidade": "GUARULHOS / SP",
+			"ocorrencia": "DOCUMENTO DE TRANSPORTE EMITIDO",
+			"descricao": "CT-e autorizado com 5 volumes e 9 Kg. Destino: MS/CAMPO GRANDE. Previsao de entrega: 04/11/24.",
+			"tipo": "",
+			"data_hora_efetiva": "2024-10-30T17:41:38",
+			"nome_recebedor": "",
+			"nro_doc_recebedor": ""
+		},
+		{
+			"data_hora": "2024-11-01T14:52:27",
+			"dominio": "BIN",
+			"filial": "SPO",
+			"cidade": "GUARULHOS / SP",
+			"ocorrencia": "SAIDA DE UNIDADE (82)",
+			"descricao": "Saida da unidade GUARULHOS em 01/11/24, 14:52h. Previsao de chegada na unidade SAO PAULO em 01/11/24, 18:52h.",
+			"tipo": "Informativo",
+			"data_hora_efetiva": "2024-11-01T14:52:27",
+			"nome_recebedor": "",
+			"nro_doc_recebedor": ""
+		},
+		{
+			"data_hora": "2024-11-01T18:51:07",
+			"dominio": "BIN",
+			"filial": "MMT",
+			"cidade": "SAO PAULO / SP",
+			"ocorrencia": "CHEGADA EM UNIDADE (83)",
+			"descricao": "Chegada na unidade SAO PAULO em 01/11/24, 18:51h.",
+			"tipo": "Informativo",
+			"data_hora_efetiva": "2024-11-01T18:51:07",
+			"nome_recebedor": "",
+			"nro_doc_recebedor": ""
+		},
+		{
+			"data_hora": "2024-11-02T20:56:45",
+			"dominio": "SDZ",
+			"filial": "SPA",
+			"cidade": "SAO PAULO / SP",
+			"ocorrencia": "SAIDA DE UNIDADE (82)",
+			"descricao": "Saida da unidade SAO PAULO em 02/11/24, 20:56h. Previsao de chegada na unidade CAMPO GRANDE em 04/11/24, 08:00h.",
+			"tipo": "Informativo",
+			"data_hora_efetiva": "2024-11-02T20:56:45",
+			"nome_recebedor": "",
+			"nro_doc_recebedor": ""
+		},
+		{
+			"data_hora": "2024-11-04T11:03:33",
+			"dominio": "SDZ",
+			"filial": "CGR",
+			"cidade": "CAMPO GRANDE / MS",
+			"ocorrencia": "CHEGADA EM UNIDADE (84)",
+			"descricao": "Chegada na unidade CAMPO GRANDE em 04/11/24, 11:03h.",
+			"tipo": "Informativo",
+			"data_hora_efetiva": "2024-11-04T11:03:33",
+			"nome_recebedor": "",
+			"nro_doc_recebedor": ""
+		},
+		{
+			"data_hora": "2024-11-06T08:17:54",
+			"dominio": "SDZ",
+			"filial": "CGR",
+			"cidade": "CAMPO GRANDE / MS",
+			"ocorrencia": "SAIDA PARA ENTREGA (21)",
+			"descricao": "Saida para entrega na cidade de CAMPO GRANDE.",
+			"tipo": "Informativo",
+			"data_hora_efetiva": "2024-11-06T08:17:54",
+			"nome_recebedor": "",
+			"nro_doc_recebedor": ""
+		},
+		{
+			"data_hora": "2024-11-06T10:00:16",
+			"dominio": "SDZ",
+			"filial": "CGR",
+			"cidade": "CAMPO GRANDE / MS",
+			"ocorrencia": "MERCADORIA ENTREGUE (01)",
+			"descricao": "MERCADORIA ENTREGUE EM 06/11/24 10:00H E FOI RECEBIDO POR ROBERTO, PARENTESCO: , DOC N.:  (OPC 038). Comprovante registrado no SEFAZ-SP - Protocolo: ********0636584 - 06/11/24 16:20 (cte.fazenda.gov.br).",
+			"tipo": "Entrega",
+			"data_hora_efetiva": "2024-11-06T10:00:16",
+			"nome_recebedor": "ROBERTO",
+			"nro_doc_recebedor": ""
+		}
+	]
+}
