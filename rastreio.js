@@ -6,7 +6,7 @@ getData().then(j => {
     const data = JSON.parse(j);
 
     const ras = new rastreio(data);
-    ras.start();
+    ras.start("container");
     ras.setHeader();
     ras.genUnList();
     ras.genListItem();
@@ -23,7 +23,8 @@ class rastreio {
         this.liList = null;
     }
 
-    start(){
+    start(containerName){
+        const container = document.getElementById(containerName);
         const rastreio1 = document.createElement("div");
         this.element = rastreio1;
         rastreio1.style.boxSizing = "border-box";
@@ -46,7 +47,7 @@ class rastreio {
             rastreio1.style.display = "none";
         }, false);
         rastreio1.appendChild(closer);
-        document.body.appendChild(rastreio1);
+        container.appendChild(rastreio1);
     }
 
     setHeader(){
